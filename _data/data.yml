@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Roberto Carlos Flores Mancera # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: robermancera@gmail.com
+  phone: 3121068091
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Roberto Carlos Flores Mancera
+  github: github.com/robermancera
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@lilhombredecera'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,9 +32,6 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
@@ -43,74 +40,54 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Organization
       link: # dejar en blanco
+    
+    - item: Active
+      link: #blank
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I consider myself a friendly, active, and productive person, most of the time I ignore all the bad thoughts chasing my head, and focus all my energy laughing and enjoying my life. I’m a great athlete, I’m good at sports like football, basketball, soccer and frisbee. I’ve been practicing football since 2013, the discipline I acquire is, in my opinion, priceless. Interpersonal communication is not a problem for me, I’m very social, patient, and tolerant.
+    Everyday of my life is a good day to learn something new.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering degree
+    university: University of Colima
+    time: 2017 August - 2021 July
+    details: I earnead at Telematics Faculty|
+
+  - degree: High School degree
+    university: University of Colima
+    time: 2014 - 2017
     details: |
+      I achieve my high school diploma
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Facebook certificate
+    university: Facebook Blueprint
+    time: 2018 - 2019
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      At the end of the second year of the engineering we achieve a Social Media administration diploma
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Developer
+    time: 02/2021 - 06/2021
+    company: Government's healt office
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I made my professional internship at the Government’s Health Office, 
+      the experience I made might be not expected because of pandemic causes, 
+      however, my personal experience was great working online with a flexible schedule and the amount of work was not more than the required.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Staff
+    time: 2019 - 2020
+    company: Magmalabs
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      My experience at MagmaLabs was intense but short, I was in charge of the administration of the MagmaLabs academy called “Brightcoders” which prepares recent college students from their bachelors degree.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,22 +99,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Javascript
+      level: 75%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: MySQL
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: CSS
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: HTML
+      level: 75%
 
-    - name: C/C++
+    - name: Ruby
+      level: 45%
+
+    - name: Phyton
       level: 40%
 
 # NO MODIFICAR
